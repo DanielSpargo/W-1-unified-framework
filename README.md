@@ -18,6 +18,24 @@ All systems are described using:
 - μ — reserve (capacity, energy, recovery ability)  
 - κ — coupling pressure (rigidity, loops, polarization)  
 
+------
+
+## Stability Condition
+
+A system remains stable when:
+
+Q ≤ 1 − (κ / (ρ μ))
+
+---
+
+### Interpretation
+
+- Higher Q → more instability  
+- Lower μ → less ability to recover  
+- Higher κ → more rigidity and lock-in  
+
+When this balance is broken, the system transitions toward collapse.
+
 ---
 
 ## Core Predictions
