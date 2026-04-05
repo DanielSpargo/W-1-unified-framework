@@ -28,3 +28,41 @@ Small increases in stress can cause sudden breakdown near a critical point.
 ---
 
 More coming soon.
+
+---
+
+## Second Module — Drug State Dependence
+
+Drug effects are not fixed.
+
+They depend on the state of the system.
+
+---
+
+### Core Idea
+
+Same drug + different internal state → different outcome.
+
+---
+
+### Examples
+
+- Cannabis:
+  - low stress → calm  
+  - high stress → anxiety  
+
+- Psychedelics:
+  - stable state → insight  
+  - unstable state → overwhelm  
+
+---
+
+### Prediction
+
+Outcomes depend more on (Q, μ, κ) than on the substance itself.
+
+---
+
+### Insight
+
+Substances shift the system — they don’t create entirely new states.
