@@ -210,3 +210,64 @@ Societal instability follows the same pattern as:
 Individuals → interactions → institutions
 
 Society is an emergent system, not a top-down structure.
+
+---
+
+## Core Predictions
+
+This framework predicts that systems across psychology, biology, and society follow the same stability rules.
+
+---
+
+### 1. Threshold Collapse
+
+Small increases in stress can cause sudden breakdown once a critical point is reached.
+
+Applies to:
+- panic attacks  
+- burnout  
+- societal instability  
+
+---
+
+### 2. Early Warning Pattern
+
+Before collapse:
+
+μ ↓ → Q ↑ → κ ↑
+
+Meaning:
+- capacity drops first  
+- stress rises next  
+- rigidity increases before failure  
+
+---
+
+### 3. State-Dependent Outcomes
+
+The same input produces different outcomes depending on system state.
+
+Examples:
+- cannabis → calm vs anxiety  
+- stress → manageable vs overwhelming  
+- policy → stability vs unrest  
+
+---
+
+### 4. Cross-Scale Consistency
+
+The same structure appears in:
+
+- brain (mental health)  
+- body (biological regulation)  
+- society (social systems)  
+
+---
+
+### 5. Prevention > Recovery
+
+Preventing collapse requires far less effort than recovering from it.
+
+---
+
+These predictions can be tested using behavioral, biological, and societal data.
