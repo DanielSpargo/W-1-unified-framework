@@ -8,6 +8,16 @@ A cross-scale framework modeling psychological, biological, and societal systems
 
 W = Ψ · Φ · Λ · E = 1 − ε
 
+------
+
+## Core Variables
+
+All systems are described using:
+
+- Q — mismatch (stress, conflict, imbalance)  
+- μ — reserve (capacity, energy, recovery ability)  
+- κ — coupling pressure (rigidity, loops, polarization)  
+
 ---
 
 ## Core Predictions
