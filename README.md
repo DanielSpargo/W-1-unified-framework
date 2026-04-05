@@ -66,3 +66,75 @@ Outcomes depend more on (Q, μ, κ) than on the substance itself.
 ### Insight
 
 Substances shift the system — they don’t create entirely new states.
+
+---
+
+## Third Module — Biological Regulation (RBC)
+
+Living systems are not random — they regulate themselves to avoid collapse.
+
+---
+
+### Core Idea
+
+Life behaves like a control system that maintains stability under changing conditions.
+
+---
+
+### Variables
+
+- Q = biological stress / mismatch (damage, imbalance)  
+- μ = reserve (energy, nutrients, recovery capacity)  
+- κ = coupling pressure (rigidity, over-constraint, system lock-in)  
+
+---
+
+### Core Behavior
+
+Healthy systems maintain:
+
+- low Q (manageable stress)  
+- high μ (enough energy and recovery)  
+- moderate κ (flexibility without instability)  
+
+---
+
+### Prediction
+
+When:
+
+- Q increases  
+- μ decreases  
+- κ becomes too high  
+
+the system approaches a collapse threshold.
+
+---
+
+### Examples
+
+- Sleep deprivation:
+  - μ ↓ → Q ↑ → instability  
+
+- Chronic stress:
+  - Q ↑ + κ ↑ → burnout  
+
+- Injury or illness:
+  - Q ↑ + μ ↓ → failure if not restored  
+
+---
+
+### Insight
+
+Life is not just chemistry — it is regulated coherence under constraints.
+
+---
+
+### Connection
+
+This follows the same structure as psychological systems:
+
+- brain instability  
+- body instability  
+
+are governed by the same variables.
