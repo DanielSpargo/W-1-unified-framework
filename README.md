@@ -296,3 +296,104 @@ Society is an emergent system, not a top-down structure.
 
 ---
 
+## Physical Systems (RPC)
+
+Physical systems can also be described using the same stability variables.
+
+---
+
+### Core Idea
+
+Even simple physical systems maintain stability under constraints and can transition when limits are exceeded.
+
+---
+
+### Interpretation
+
+- Q → deviation from equilibrium  
+- μ → available energy / system capacity  
+- κ → constraint or interaction strength  
+
+---
+
+### Prediction
+
+When:
+
+- deviation increases  
+- capacity decreases  
+- constraints increase  
+
+the system approaches a transition or breakdown point.
+
+---
+
+### Examples
+
+- Mechanical systems:
+  - stress exceeds limit → sudden failure  
+
+- Energy systems:
+  - insufficient capacity → instability  
+
+- Phase transitions:
+  - small changes → large structural shifts  
+
+---
+
+### Insight
+
+Physical systems also exhibit threshold behavior, similar to biological and psychological systems.
+
+---
+
+## Chemical Systems (RCHC)
+
+Chemical systems can be understood as structured interactions that preserve identity under constraints.
+
+---
+
+### Core Idea
+
+Chemistry is not just reactions — it is structured relationships between components.
+
+---
+
+### Interpretation
+
+- Φ → composition (what something is made of)  
+- Λ → bonding structure (how components connect)  
+- Ψ → interaction dynamics (reactions)  
+- E → environmental conditions  
+
+---
+
+### Prediction
+
+Stable chemical systems maintain:
+
+- consistent structure  
+- balanced interactions  
+
+Instability occurs when:
+
+- conditions exceed tolerance  
+- structure breaks or reorganizes  
+
+---
+
+### Examples
+
+- Bond breaking:
+  - energy threshold crossed → structure changes  
+
+- Reaction conditions:
+  - small changes → different outcomes  
+
+---
+
+### Insight
+
+Chemical systems follow the same pattern of:
+
+structure + interaction + constraint → stability or transition
