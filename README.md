@@ -101,7 +101,7 @@ These predictions can be tested using behavioral, biological, and societal data.
 
 ## First Module
 
-### Threshold Collapse in Psychological Systems
+### Threshold Collapse in Psychological Systems (RPSYC)
 
 Core idea:
 Psychological instability is not linear — it happens when stress crosses a threshold.
@@ -113,10 +113,6 @@ State variables:
 
 Prediction:
 Small increases in stress can cause sudden breakdown near a critical point.
-
----
-
-More coming soon.
 
 ---
 
