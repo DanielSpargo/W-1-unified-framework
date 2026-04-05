@@ -99,9 +99,7 @@ These predictions can be tested using behavioral, biological, and societal data.
 
 ---
 
-## First Module
-
-### Threshold Collapse in Psychological Systems (RPSYC)
+## Threshold Collapse in Psychological Systems (RPSYC)
 
 Core idea:
 Psychological instability is not linear — it happens when stress crosses a threshold.
@@ -116,7 +114,7 @@ Small increases in stress can cause sudden breakdown near a critical point.
 
 ---
 
-## Second Module — Drug State Dependence
+## Drug State Dependence
 
 Drug effects are not fixed.
 
@@ -154,7 +152,7 @@ Substances shift the system — they don’t create entirely new states.
 
 ---
 
-## Third Module — Biological Regulation (RBC)
+## Biological Regulation (RBC)
 
 Living systems are not random — they regulate themselves to avoid collapse.
 
@@ -226,7 +224,7 @@ are governed by the same variables.
 
 ---
 
-## Fourth Module — Social Systems (RCC / CBC)
+## Social Systems (RCC / CBC)
 
 Societies behave like large-scale systems made of interacting individuals.
 
