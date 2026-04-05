@@ -1,6 +1,6 @@
 # W = 1 Unified Framework
 
-A cross-scale framework modeling psychological, biological, and societal systems using shared stability variables.
+A structured framework for modeling systems across multiple domains using shared stability variables and dynamics.
 
 ---
 
@@ -8,7 +8,7 @@ A cross-scale framework modeling psychological, biological, and societal systems
 
 W = Ψ · Φ · Λ · E = 1 − ε
 
-------
+---
 
 ## Core Variables
 
@@ -16,9 +16,41 @@ All systems are described using:
 
 - Q — mismatch (stress, conflict, imbalance)  
 - μ — reserve (capacity, energy, recovery ability)  
-- κ — coupling pressure (rigidity, loops, polarization)  
+- κ — coupling pressure (rigidity, loops, constraints)  
 
-------
+---
+
+## Core Predictions
+
+This framework predicts that systems across different domains follow the same stability rules.
+
+---
+
+### 1. Threshold Collapse
+
+Small increases in stress can cause sudden breakdown once a critical point is reached.
+
+---
+
+### 2. Early Warning Pattern
+
+Before collapse:
+
+μ ↓ → Q ↑ → κ ↑
+
+---
+
+### 3. State-Dependent Outcomes
+
+The same input produces different outcomes depending on system state.
+
+---
+
+### 4. Prevention > Recovery
+
+Preventing collapse requires far less effort than recovering from it.
+
+---
 
 ## Stability Condition
 
@@ -31,369 +63,121 @@ Q ≤ 1 − (κ / (ρ μ))
 ### Interpretation
 
 - Higher Q → more instability  
-- Lower μ → less ability to recover  
-- Higher κ → more rigidity and lock-in  
+- Lower μ → less recovery capacity  
+- Higher κ → more rigidity  
 
-When this balance is broken, the system transitions toward collapse.
-
----
-
-## Core Predictions
-
-This framework predicts that systems across psychology, biology, and society follow the same stability rules.
+When this balance is exceeded, the system transitions toward instability.
 
 ---
 
-### 1. Threshold Collapse
+## General System Pattern
 
-Small increases in stress can cause sudden breakdown once a critical point is reached.
+This framework does not begin with a specific domain.
 
-Applies to:
-- panic attacks  
-- burnout  
-- societal instability  
+It describes a general pattern:
 
----
+- structure (Φ)  
+- interaction (Ψ)  
+- coupling (Λ)  
+- capacity (E / μ)  
 
-### 2. Early Warning Pattern
-
-Before collapse:
-
-μ ↓ → Q ↑ → κ ↑
-
-Meaning:
-- capacity drops first  
-- stress rises next  
-- rigidity increases before failure  
+which together determine whether a system remains stable or transitions toward collapse.
 
 ---
 
-### 3. State-Dependent Outcomes
+## Domain Instances
 
-The same input produces different outcomes depending on system state.
-
-Examples:
-- cannabis → calm vs anxiety  
-- stress → manageable vs overwhelming  
-- policy → stability vs unrest  
+The same pattern appears across multiple domains.
 
 ---
 
-### 4. Cross-Scale Consistency
-
-The same structure appears in:
-
-- brain (mental health)  
-- body (biological regulation)  
-- society (social systems)  
-
----
-
-### 5. Prevention > Recovery
-
-Preventing collapse requires far less effort than recovering from it.
-
----
-
-These predictions can be tested using behavioral, biological, and societal data.
-
----
-
-## Threshold Collapse in Psychological Systems (RPSYC)
-
-Core idea:
-Psychological instability is not linear — it happens when stress crosses a threshold.
-
-State variables:
-- Q = mismatch (stress)
-- μ = reserve (capacity)
-- κ = rigidity (loops)
-
-Prediction:
-Small increases in stress can cause sudden breakdown near a critical point.
-
----
-
-## Drug State Dependence
-
-Drug effects are not fixed.
-
-They depend on the state of the system.
-
----
-
-### Core Idea
-
-Same drug + different internal state → different outcome.
-
----
-
-### Examples
-
-- Cannabis:
-  - low stress → calm  
-  - high stress → anxiety  
-
-- Psychedelics:
-  - stable state → insight  
-  - unstable state → overwhelm  
-
----
-
-### Prediction
-
-Outcomes depend more on (Q, μ, κ) than on the substance itself.
-
----
-
-### Insight
-
-Substances shift the system — they don’t create entirely new states.
-
----
-
-## Biological Regulation (RBC)
-
-Living systems are not random — they regulate themselves to avoid collapse.
-
----
-
-### Core Idea
-
-Life behaves like a control system that maintains stability under changing conditions.
-
----
-
-### Variables
-
-- Q = biological stress / mismatch (damage, imbalance)  
-- μ = reserve (energy, nutrients, recovery capacity)  
-- κ = coupling pressure (rigidity, over-constraint, system lock-in)  
-
----
-
-### Core Behavior
-
-Healthy systems maintain:
-
-- low Q (manageable stress)  
-- high μ (enough energy and recovery)  
-- moderate κ (flexibility without instability)  
-
----
-
-### Prediction
-
-When:
-
-- Q increases  
-- μ decreases  
-- κ becomes too high  
-
-the system approaches a collapse threshold.
-
----
-
-### Examples
-
-- Sleep deprivation:
-  - μ ↓ → Q ↑ → instability  
-
-- Chronic stress:
-  - Q ↑ + κ ↑ → burnout  
-
-- Injury or illness:
-  - Q ↑ + μ ↓ → failure if not restored  
-
----
-
-### Insight
-
-Life is not just chemistry — it is regulated coherence under constraints.
-
----
-
-### Connection
-
-This follows the same structure as psychological systems:
-
-- brain instability  
-- body instability  
-
-are governed by the same variables.
-
----
-
-## Social Systems (RCC / CBC)
-
-Societies behave like large-scale systems made of interacting individuals.
-
----
-
-### Core Idea
-
-A society is a network of people whose interactions form stable or unstable systems.
-
----
-
-### Variables
-
-- Q = societal mismatch (conflict, distrust, inequality)  
-- μ = societal reserve (resources, stability, trust)  
-- κ = coupling pressure (polarization, rigidity, echo chambers)  
-
----
-
-### Core Behavior
-
-Stable societies maintain:
-
-- low Q (manageable conflict)  
-- high μ (strong support systems)  
-- moderate κ (coordination without rigidity)  
-
----
-
-### Prediction
-
-When:
-
-- Q increases (conflict, inequality)  
-- μ decreases (resources, trust)  
-- κ increases (polarization, rigid groups)  
-
-society approaches a collapse or fragmentation threshold.
-
----
-
-### Examples
-
-- Polarization:
-  - κ ↑ → groups stop communicating  
-
-- Economic stress:
-  - μ ↓ → instability increases  
-
-- Social unrest:
-  - Q ↑ → rapid system shifts  
-
----
-
-### Insight
-
-Societal instability follows the same pattern as:
-
-- biological breakdown  
-- psychological collapse  
-
----
-
-### Connection
-
-Individuals → interactions → institutions
-
-Society is an emergent system, not a top-down structure.
-
----
-
-## Physical Systems (RPC)
-
-Physical systems can also be described using the same stability variables.
-
----
-
-### Core Idea
-
-Even simple physical systems maintain stability under constraints and can transition when limits are exceeded.
-
----
-
-### Interpretation
+### Physical Systems (RPC)
 
 - Q → deviation from equilibrium  
-- μ → available energy / system capacity  
+- μ → available energy or capacity  
 - κ → constraint or interaction strength  
 
----
-
-### Prediction
-
-When:
-
-- deviation increases  
-- capacity decreases  
-- constraints increase  
-
-the system approaches a transition or breakdown point.
+Example:
+- material stress → sudden failure at threshold  
 
 ---
 
-### Examples
+### Chemical Systems (RefChem)
 
-- Mechanical systems:
-  - stress exceeds limit → sudden failure  
-
-- Energy systems:
-  - insufficient capacity → instability  
-
-- Phase transitions:
-  - small changes → large structural shifts  
-
----
-
-### Insight
-
-Physical systems also exhibit threshold behavior, similar to biological and psychological systems.
-
----
-
-## Chemical Systems (RCHC)
-
-Chemical systems can be understood as structured interactions that preserve identity under constraints.
-
----
-
-### Core Idea
-
-Chemistry is not just reactions — it is structured relationships between components.
-
----
-
-### Interpretation
-
-- Φ → composition (what something is made of)  
-- Λ → bonding structure (how components connect)  
-- Ψ → interaction dynamics (reactions)  
+- Φ → composition  
+- Λ → bonding structure  
+- Ψ → reaction dynamics  
 - E → environmental conditions  
 
----
-
-### Prediction
-
-Stable chemical systems maintain:
-
-- consistent structure  
-- balanced interactions  
-
-Instability occurs when:
-
-- conditions exceed tolerance  
-- structure breaks or reorganizes  
+Example:
+- bond breaking when energy threshold is exceeded  
 
 ---
 
-### Examples
+### Biological Systems (RBC)
 
-- Bond breaking:
-  - energy threshold crossed → structure changes  
+- Q → physiological stress  
+- μ → energy and recovery capacity  
+- κ → system rigidity or over-constraint  
 
-- Reaction conditions:
-  - small changes → different outcomes  
+Example:
+- fatigue → instability when recovery is insufficient  
 
 ---
 
-### Insight
+### Psychological Systems (RPSYC)
 
-Chemical systems follow the same pattern of:
+- Q → emotional or cognitive overload  
+- μ → mental energy and resilience  
+- κ → rigid thought loops  
 
-structure + interaction + constraint → stability or transition
+Example:
+- sudden anxiety or breakdown near threshold  
+
+---
+
+### Drug Modulation
+
+Substances modify system state rather than creating entirely new behavior.
+
+Example:
+- same substance → calm or anxiety depending on baseline state  
+
+---
+
+### Social Systems (RCC / CBC)
+
+- Q → conflict, inequality, distrust  
+- μ → resources, stability, trust  
+- κ → polarization, rigid group structures  
+
+Example:
+- rising polarization → fragmentation at threshold  
+
+---
+
+## Core Insight
+
+The same structure governs:
+
+- physical transitions  
+- chemical reactions  
+- biological regulation  
+- psychological stability  
+- social dynamics  
+
+---
+
+## Interpretation
+
+This framework proposes that many systems can be understood as:
+
+constrained, interacting structures that transition between stability and instability based on mismatch, capacity, and coupling.
+
+---
+
+## Status
+
+This is an early-stage framework focused on identifying shared patterns and generating testable predictions across domains.
+
+---
