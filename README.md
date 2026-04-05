@@ -138,3 +138,75 @@ This follows the same structure as psychological systems:
 - body instability  
 
 are governed by the same variables.
+
+---
+
+## Fourth Module — Social Systems (RCC / CBC)
+
+Societies behave like large-scale systems made of interacting individuals.
+
+---
+
+### Core Idea
+
+A society is a network of people whose interactions form stable or unstable systems.
+
+---
+
+### Variables
+
+- Q = societal mismatch (conflict, distrust, inequality)  
+- μ = societal reserve (resources, stability, trust)  
+- κ = coupling pressure (polarization, rigidity, echo chambers)  
+
+---
+
+### Core Behavior
+
+Stable societies maintain:
+
+- low Q (manageable conflict)  
+- high μ (strong support systems)  
+- moderate κ (coordination without rigidity)  
+
+---
+
+### Prediction
+
+When:
+
+- Q increases (conflict, inequality)  
+- μ decreases (resources, trust)  
+- κ increases (polarization, rigid groups)  
+
+society approaches a collapse or fragmentation threshold.
+
+---
+
+### Examples
+
+- Polarization:
+  - κ ↑ → groups stop communicating  
+
+- Economic stress:
+  - μ ↓ → instability increases  
+
+- Social unrest:
+  - Q ↑ → rapid system shifts  
+
+---
+
+### Insight
+
+Societal instability follows the same pattern as:
+
+- biological breakdown  
+- psychological collapse  
+
+---
+
+### Connection
+
+Individuals → interactions → institutions
+
+Society is an emergent system, not a top-down structure.
