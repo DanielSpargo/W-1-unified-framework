@@ -1,6 +1,12 @@
 # W = 1 Unified Framework
 
-A structured framework for modeling systems across psychology, biology, and society using shared variables.
+A cross-scale framework modeling psychological, biological, and societal systems using shared stability variables.
+
+---
+
+## Core Equation
+
+W = Ψ · Φ · Λ · E = 1 − ε
 
 ---
 
@@ -62,11 +68,6 @@ Preventing collapse requires far less effort than recovering from it.
 ---
 
 These predictions can be tested using behavioral, biological, and societal data.
----
-
-## Core Idea
-
-W = Ψ · Φ · Λ · E = 1 − ε
 
 ---
 
