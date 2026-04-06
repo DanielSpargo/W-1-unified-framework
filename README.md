@@ -293,6 +293,71 @@ This suggests that:
 
 ---
 
+---
+
+#### Example Experiment (Minimal Test Case)
+
+Consider a two-level quantum system (|0⟩, |1⟩) initialized in a coherent superposition.
+
+Apply:
+
+- pure dephasing (no energy exchange)  
+- controlled environmental coupling (κ)  
+- varying coherence reserve (μ)  
+
+---
+
+#### Standard Expectation
+
+Under pure dephasing:
+
+- coherence decays  
+- populations remain constant  
+
+---
+
+#### RQC Prediction
+
+As coherence decreases:
+
+- Q (phase mismatch) increases  
+- μ (coherence capacity) decreases  
+- κ (coupling pressure) increases  
+
+Prediction:
+
+A measurable population shift may occur even without energy exchange.
+
+---
+
+#### Observable
+
+Track:
+
+- population difference ΔP(t)  
+- coherence decay rate  
+- coupling strength  
+
+---
+
+#### Outcome
+
+If population transfer occurs under pure dephasing:
+
+- supports coherence-driven transition dynamics  
+
+If no transfer occurs:
+
+- indicates additional constraints are required  
+
+---
+
+#### Interpretation
+
+This test isolates whether coherence structure alone can drive state transitions, independent of energy input.
+
+---
+
 ### Chemical Systems (RCHC)
 
 ---
