@@ -167,6 +167,18 @@ before sudden transitions or failure occur.
 
 ---
 
+#### Stability Relation
+
+Q ≤ 1 − (κ / (ρ μ))
+
+Where:
+
+- Q = deviation from equilibrium  
+- μ = available energy / capacity  
+- κ = constraint strength  
+
+---
+
 ### Chemical Systems (RCHC)
 
 ---
@@ -249,6 +261,18 @@ before rapid reaction or reconfiguration occurs.
 
 ---
 
+#### Stability Relation
+
+Q ≤ 1 − (κ / (ρ μ))
+
+Where:
+
+- Q = deviation from stable configuration  
+- μ = energy stability margin  
+- κ = bonding or structural constraint  
+
+---
+
 ### Biological Systems (RBC)
 
 - Q → physiological stress  
@@ -328,6 +352,18 @@ Organisms approaching failure will show:
 - increasing rigidity or dysfunction (κ ↑)  
 
 before major breakdown occurs.
+
+---
+
+#### Stability Relation
+
+Q ≤ 1 − (κ / (ρ μ))
+
+Where:
+
+- Q = physiological stress  
+- μ = recovery capacity  
+- κ = system rigidity or constraint  
 
 ---
 
@@ -473,6 +509,16 @@ This reinforces specific behaviors and reduces flexibility.
 
 ---
 
+#### Modulation Relation
+
+Δ(Q, μ, κ) = f(substance, baseline state)
+
+Meaning:
+
+- substances shift system variables rather than determining outcomes directly  
+
+---
+
 #### Insight
 
 Substances do not create new states — they shift the system within its existing state space.
@@ -508,6 +554,18 @@ before sudden behavioral or emotional shifts occur.
 
 ---
 
+#### Stability Relation
+
+Q ≤ 1 − (κ / (ρ μ))
+
+Where:
+
+- Q = emotional or cognitive overload  
+- μ = mental resilience  
+- κ = rigidity of thought or behavior  
+
+---
+
 ### Social Systems (RCC / CBC)
 
 - Q → conflict, inequality, distrust  
@@ -518,6 +576,7 @@ Example:
 - rising polarization → fragmentation at threshold  
 
 ---
+
 #### Expanded Dynamics
 
 Social systems can be modeled as networks of interacting individuals whose combined dynamics produce stable or unstable structures.
@@ -588,6 +647,18 @@ Societies nearing instability will show:
 - increasing conflict (Q ↑)  
 
 before major transitions occur.
+
+---
+
+#### Stability Relation
+
+Q ≤ 1 − (κ / (ρ μ))
+
+Where:
+
+- Q = societal conflict or instability  
+- μ = resources and institutional stability  
+- κ = polarization or structural rigidity  
 
 ---
 
